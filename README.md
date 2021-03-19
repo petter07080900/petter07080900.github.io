@@ -1,4 +1,7 @@
-# 40717018  作業four
+#40717018  作業four
+**粗體**
+*斜體*
+~~刪除~~
 
 ## Welcome to GitHub Pages
 
