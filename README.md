@@ -5,6 +5,8 @@
 *斜體*
 
 ~~刪除~~
+*list
+*list
 
 ## Welcome to GitHub Pages
 
