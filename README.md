@@ -5,8 +5,8 @@
 *斜體*
 
 ~~刪除~~  
-*list  
-*list2 
+* list  
+* list2 
 
 ## Welcome to GitHub Pages
 
